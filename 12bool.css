@@ -244,7 +244,7 @@
 /* LG DESKTOP da 992px */
 
 @media screen and (min-width: 992px) {
-
+    
     /* columns */
     .col-lg-12 {
         width: 100%;
@@ -346,6 +346,8 @@
     .offset-lg-12 {
         margin-left: 100%;
     }
+
 }
+
 
 
